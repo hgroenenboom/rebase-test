@@ -1,4 +1,1 @@
-Solved rebase issue:
-first addition
-second addition
-third addition
+Removed old changes
